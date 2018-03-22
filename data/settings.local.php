@@ -15,3 +15,5 @@ $databases = array (
     ),
   ),
 );
+
+$drupal_hash_salt = '_Cpq4Zvf14XE4-Rhbuf9jA6WVS6YoN6l7ztnwiAJvGU';
